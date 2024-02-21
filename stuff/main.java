@@ -1,6 +1,7 @@
 package stuff;
 public class main{
     public static void main(String args[]){
+        int result = addNumbers(1,1);
         printHello1();
         printHello2();
         printHello3();
@@ -18,6 +19,9 @@ public class main{
         System.out.println("hello4");
     }
 
+    public static int addNumbers(int a, int b){
+        return a+b;
+    }
 
-    
+
 }
