@@ -1,0 +1,15 @@
+C:\Users\zkale\OneDrive\Documents\GitHub\password-less-project\consoletesting\bin\Debug\net8.0\consoletesting.exe
+C:\Users\zkale\OneDrive\Documents\GitHub\password-less-project\consoletesting\bin\Debug\net8.0\consoletesting.deps.json
+C:\Users\zkale\OneDrive\Documents\GitHub\password-less-project\consoletesting\bin\Debug\net8.0\consoletesting.runtimeconfig.json
+C:\Users\zkale\OneDrive\Documents\GitHub\password-less-project\consoletesting\bin\Debug\net8.0\consoletesting.dll
+C:\Users\zkale\OneDrive\Documents\GitHub\password-less-project\consoletesting\bin\Debug\net8.0\consoletesting.pdb
+C:\Users\zkale\OneDrive\Documents\GitHub\password-less-project\consoletesting\obj\Debug\net8.0\consoletesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zkale\OneDrive\Documents\GitHub\password-less-project\consoletesting\obj\Debug\net8.0\consoletesting.AssemblyInfoInputs.cache
+C:\Users\zkale\OneDrive\Documents\GitHub\password-less-project\consoletesting\obj\Debug\net8.0\consoletesting.AssemblyInfo.cs
+C:\Users\zkale\OneDrive\Documents\GitHub\password-less-project\consoletesting\obj\Debug\net8.0\consoletesting.csproj.CoreCompileInputs.cache
+C:\Users\zkale\OneDrive\Documents\GitHub\password-less-project\consoletesting\obj\Debug\net8.0\consoletesting.sourcelink.json
+C:\Users\zkale\OneDrive\Documents\GitHub\password-less-project\consoletesting\obj\Debug\net8.0\consoletesting.dll
+C:\Users\zkale\OneDrive\Documents\GitHub\password-less-project\consoletesting\obj\Debug\net8.0\refint\consoletesting.dll
+C:\Users\zkale\OneDrive\Documents\GitHub\password-less-project\consoletesting\obj\Debug\net8.0\consoletesting.pdb
+C:\Users\zkale\OneDrive\Documents\GitHub\password-less-project\consoletesting\obj\Debug\net8.0\consoletesting.genruntimeconfig.cache
+C:\Users\zkale\OneDrive\Documents\GitHub\password-less-project\consoletesting\obj\Debug\net8.0\ref\consoletesting.dll
