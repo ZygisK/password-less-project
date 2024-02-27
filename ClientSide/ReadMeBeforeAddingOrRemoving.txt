@@ -1,1 +1,0 @@
-Make sure you are on NOT on the main branch when pushing out code, then you can merge to main branch.
