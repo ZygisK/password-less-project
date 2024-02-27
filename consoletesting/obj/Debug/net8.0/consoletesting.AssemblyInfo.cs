@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("consoletesting")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4fc7aea891a45f1fd7c3b1b670da5989ae4aca7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e89e82208a83027c7e651ea2d3ab248acdf99e1")]
 [assembly: System.Reflection.AssemblyProductAttribute("consoletesting")]
 [assembly: System.Reflection.AssemblyTitleAttribute("consoletesting")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
